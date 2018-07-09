@@ -119,5 +119,6 @@ Automated testing using [Cypress](https://www.cypress.io/)
 Write the app is TypeScript
 
 ### Super Bonus:
+Important!!! Dont't forget to put your personal access token as token prop into localStorage
 
 Use github GraphQL api and [react-apollo](https://github.com/apollographql/react-apollo) (the network calls should be mocked and not hit the network)
